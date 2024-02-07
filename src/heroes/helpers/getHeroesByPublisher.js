@@ -1,3 +1,4 @@
+// Objetivo: Obtener los heroes por su publicador
 import { heroes } from "../data/heroes";
 
 export const getHeroesByPublisher = (publisher) => {
